@@ -1,4 +1,4 @@
-#Getting-and-Cleaning-Data (ReadMe file)
+#Getting-and-Cleaning-Data (CodeBook file)
 ==========================================
 
 This is the CodeBook file for my course project submission to the "Getting and Cleaning Data" course on Coursera.
